@@ -1,0 +1,1571 @@
+Subjective
+   Patient with trach, did not tolerate trach collar trial
+   Objective
+   Pertinent medications: RISS, multivitamin, colace, lactulose,
+   prednisone
+   Labs:
+   Value
+   Date
+   Glucose
+   147 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Glucose Finger Stick
+   193
+   [**2139-7-7**] 06:00 AM
+   BUN
+   54 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Creatinine
+   3.6 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Sodium
+   130 mEq/L
+   [**2139-7-7**] 01:18 AM
+   Potassium
+   3.6 mEq/L
+   [**2139-7-7**] 01:18 AM
+   Chloride
+   100 mEq/L
+   [**2139-7-7**] 01:18 AM
+   Albumin
+   3.0 g/dL
+   [**2139-7-3**] 03:43 AM
+   Calcium non-ionized
+   7.9 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Phosphorus
+   1.9 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Ionized Calcium
+   1.18 mmol/L
+   [**2139-7-4**] 05:47 AM
+   Magnesium
+   1.6 mg/dL
+   [**2139-7-7**] 01:18 AM
+   Current diet order / nutrition support: Nutren Renal with 30g
+   beneprotein at 30ml/hr - provides 1574kcal and 76g protein
+   GI: Abdomen soft/distended with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   69 year old female with COPD, CHF, DM2, recent prolonged
+   hospitalization with rectal sheath hematoma, PNA, respiratory failure
+   s/p trach presenting with urosepsis, ARF and septic shock. Patient has
+   been tolerating tube feedings. Would recommend continuing with tube
+   feeding as ordered. Noted surgery without plans for debridement of
+   wound.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Continue with Nutren Renal with 30g beneprotein at 30ml/hr x
+   24 hours
+   2.       Monitor residuals q4H and hold if >150ml
+   3.       Monitor lytes/replete PRN
+   09:51
+
+Subjective
+   Patient tolerating trach collar well, s/p PMV
+   Objective
+   Pertinent medications: colace, multivitamin, pantoprazole, prednisone
+   Labs:
+   Value
+   Date
+   Glucose
+   114 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Glucose Finger Stick
+   115
+   [**2139-7-12**] 12:00 PM
+   BUN
+   54 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Creatinine
+   3.9 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Sodium
+   134 mEq/L
+   [**2139-7-13**] 02:19 AM
+   Potassium
+   4.3 mEq/L
+   [**2139-7-13**] 02:19 AM
+   Chloride
+   101 mEq/L
+   [**2139-7-13**] 02:19 AM
+   TCO2
+   22 mEq/L
+   [**2139-7-13**] 02:19 AM
+   Albumin
+   3.0 g/dL
+   [**2139-7-3**] 03:43 AM
+   Calcium non-ionized
+   9.2 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Phosphorus
+   5.1 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Ionized Calcium
+   1.18 mmol/L
+   [**2139-7-4**] 05:47 AM
+   Magnesium
+   1.8 mg/dL
+   [**2139-7-13**] 02:19 AM
+   Current diet order / nutrition support: Soft regular with nectar thick
+   liquids
+   GI: Abdomen soft/distended with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   69 year old female with COPD, CHF, DM2, trach dependent presenting with
+   septic shock, ARF, pneumonia. Patient refused feeing tube and has had
+   diet advanced to soft with nectar thick liquids as per SLP. Patient
+   taking minimal PO intake, will add Ensure Pudding with meals. Noted
+   possible plans to d/c back to [**Last Name (LF) 82**], [**First Name3 (LF) 178**] follow.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Continue with diet as ordered
+   2.       Encourage PO intake
+   3.       Provide patient with supplements with meals
+   10:01
+
+Subjective
+   Patient on trach
+   Objective
+   Pertinent medications: RISS, colace, cipro, prednisone, lasix
+   Labs:
+   Value
+   Date
+   Glucose
+   105 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Glucose Finger Stick
+   125
+   [**2139-7-9**] 06:00 AM
+   BUN
+   53 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Creatinine
+   3.0 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Sodium
+   129 mEq/L
+   [**2139-7-9**] 05:18 AM
+   Potassium
+   4.5 mEq/L
+   [**2139-7-9**] 05:18 AM
+   Chloride
+   97 mEq/L
+   [**2139-7-9**] 05:18 AM
+   TCO2
+   20 mEq/L
+   [**2139-7-9**] 05:18 AM
+   Albumin
+   3.0 g/dL
+   [**2139-7-3**] 03:43 AM
+   Calcium non-ionized
+   9.0 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Phosphorus
+   2.4 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Ionized Calcium
+   1.18 mmol/L
+   [**2139-7-4**] 05:47 AM
+   Magnesium
+   1.6 mg/dL
+   [**2139-7-9**] 05:18 AM
+   Current diet order / nutrition support: NPO
+   GI: Abdomen obese with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   69 year old female with COPD, CHF, DM2, trach dependent presenting in
+   septic shock, ARF and pneumonia. Patient was tolerating tube feedings
+   well, but patient self d/c
+d NGT overnight. Suggest replacing NGT and
+   restarting tube feedings.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Replace NGT and restart Nutren Renal with 30g beneprotein at
+   30ml/hr x 24 hours
+   2.       Monitor residuals q4H and hold if >150ml
+   3.       Monitor/replete lytes PRN
+   10:12
+
+Potential for nutrition risk. Patient being monitored. Current
+   intervention if any, listed below:
+   Comments:
+   patient tolerating po diet, intake is fair-good.  Will follow, please
+   consult if needed
+
+Potential for nutrition risk. Patient being monitored. Current
+   intervention if any, listed below:
+   Comments:
+   patient tolerating po diet, intake is fair. c/o no taste also c/o GERD.
+    Will follow, add sugar free shakes.  please consult if needed
+
+Comments:
+   Noted patient transitioned to comfort care. Please reconsult if
+   anything changes and nutrition support is needed.
+   09:30
+
+Comments:
+   Patient at nutritional risk given decreased PO intake for extended
+   period of time. However, noted per family meeting that current care
+   will continue with comfort in mind. No plans for tube feedings at this
+   time. Will sign out, please reconsult if plan of care changes.
+   09:50
+
+Subjective
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   165.1 cm
+   84.9 kg
+   31.2
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   56.7
+   150
+   64
+   Diagnosis: Sepis
+   PMH : Type 2 DM, GERD, s/p prolonged hospitlaization [**4-/2139**]/18/08 for
+   MRSA & highly resistant pseudomonal PNA, rectal sheath hematoma- s/p
+   embolization [**4-18**], s/p trach [**4-18**], COPD, OSA, depression, s/p TAH, s/p
+   PE [**2135**] with IVC filter, focal seizures, diastolic CHF, s/p CVA x2 with
+   right facial droop, CKD (baseline Cr 1.3-1.5)
+   Food allergies and intolerances:  Shellfish, nuts
+   Pertinent medications: Neosynephrine, RISS, KCl repletions, Mvit,
+   Heparin, Fentanyl patch
+   Labs:
+   Value
+   Date
+   Glucose
+   100 mg/dL
+   [**2139-6-28**] 03:40 AM
+   Glucose Finger Stick
+   155
+   [**2139-6-28**] 12:00 PM
+   BUN
+   37 mg/dL
+   [**2139-6-28**] 03:40 AM
+   Creatinine
+   2.5 mg/dL
+   [**2139-6-28**] 03:40 AM
+   Sodium
+   149 mEq/L
+   [**2139-6-28**] 03:40 AM
+   Potassium
+   2.8 mEq/L
+   [**2139-6-28**] 03:40 AM
+   Chloride
+   117 mEq/L
+   [**2139-6-28**] 03:40 AM
+   pH (arterial)
+   7.29 units
+   [**2139-6-28**] 10:43 AM
+   Calcium non-ionized
+   7.5 mg/dL
+   [**2139-6-28**] 03:40 AM
+   Phosphorus
+   6.0 mg/dL
+   [**2139-6-28**] 03:40 AM
+   Ionized Calcium
+   1.00 mmol/L
+   [**2139-6-27**] 07:09 PM
+   Magnesium
+   1.8 mg/dL
+   [**2139-6-28**] 03:40 AM
+   WBC
+   16.7 K/uL
+   [**2139-6-28**] 03:40 AM
+   Current diet order / nutrition support: NPO
+   GI: less distended, soft, hypoactive BS
+   Assessment of Nutritional Status
+   Adequately nourished, At risk for malnutrition
+   Pt at risk due to: NPO / hypocaloric diet, TF dependent, altered
+   consistency diet
+   Estimated Nutritional Needs
+   Calories: 1280-1600 (BEE x  or / 20-25 cal/kg)
+   Protein: 51-77 (0.8-1.2 g/kg)
+   Fluid: per team
+   Estimation of previous intake: Adequate
+   Estimation of current intake: Inadequate
+   Specifics:
+   69 y.o. F s/p recent prolonged hospital stay, readmitted with ARF,
+   hypotension, abd distension, and sepsis.  Pt initially thought to have
+   ischemic gut, but this has been ruled out.  Pt received TF at last
+   hospital stay and at rehab, initially.  However, per adm notes, pt
+   seems to have been weaned off TF
+s and was taking po
+s: ground diet
+   with nectar thick liquids.  No family available for interview, thus
+   unable to determine quantity of pt
+s po intake.  Pt currently on vent,
+   with NGT.  Nutrition consulted for TF recs.  Will start pt on renal
+   formula, however if renal function improves, pt may be changed to a
+   more standard, fluid-concentrated TF formula.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1) Tube feeding / TPN recommendations: Rec TF goal of Nutren Renal @
+   30cc/hr + 30g protein (1547kcal, 76g protein)
+     Start TF at 10cc/hr, adv rate 10cc q6hrs, as tol, to goal.
+   2) Monitor tolerance with residual checks, adb exam, and pt complaints.
+   3) Monitor hydration, BG and lytes. Pt may be able to change Nutren 2.0
+   if renal fxn improves.
+   4) If extubated, rec s/s eval to assess if pt safe to take po's.
+   5) Rec phos binders for Phos >5.
+   Comments:
+
+Subjective
+   Patient with trach
+   Objective
+   Pertinent medications: RISS, multivitamin, prednisone
+   Labs:
+   Value
+   Date
+   Glucose
+   113 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Glucose Finger Stick
+   140
+   [**2139-7-2**] 06:00 AM
+   BUN
+   51 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Creatinine
+   3.7 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Sodium
+   136 mEq/L
+   [**2139-7-2**] 06:10 AM
+   Potassium
+   4.7 mEq/L
+   [**2139-7-2**] 06:10 AM
+   Chloride
+   107 mEq/L
+   [**2139-7-2**] 06:10 AM
+   CO2 (Calc) arterial
+   19 mEq/L
+   [**2139-7-2**] 06:58 AM
+   Albumin
+   2.8 g/dL
+   [**2139-6-29**] 12:24 PM
+   Calcium non-ionized
+   7.6 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Phosphorus
+   3.4 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Ionized Calcium
+   1.03 mmol/L
+   [**2139-6-30**] 02:19 AM
+   Magnesium
+   1.7 mg/dL
+   [**2139-7-2**] 06:10 AM
+   Current diet order / nutrition support: Nutren Renal with 30g
+   beneprotein at 30ml/hr - provides 1547kcal and 76g protein
+   GI: Abdomen obese with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   69 year old female with multiple medical problems including COPD, CHF,
+   DM2, recent prolonged hospitalization with rectal sheath hematoma, PNA
+   , respiratory failure s/p trach presenting with fevers, hypotension,
+   ARF. Noted that head CT and abdominal CT have been negative. Patient
+   tolerating tube feedings of Nutren Renal with 30g beneprotein at
+   30ml/hr x 24 hours. No significant residuals noted. Once able, will
+   change to standard tube feeding, will wait until BUN/Cr decrease.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Continue with tube feeding as ordered: Nutren Renal with 30g
+   beneprotein at 30ml/hr x 24 hours
+   2.       Monitor residuals q4H and hold if >150ml
+   3.       Monitor lytes closely
+   10:15
+
+Subjective
+   Patient on and off BIPAP, currently sleeping
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   165 cm
+   82 kg
+   30
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   56.7 kg
+   143%
+   63
+   patient was 65kg in [**12-8**]
+   Diagnosis: C.diff colitis
+   PMH : CAD, PAF, CVT, hypertension, hyperlipidemia, osteoporosis, s/p
+   ORIF, s/p hepatobiliary surgery, s/p CCY, s/p hysterectomy
+   Food allergies and intolerances:  none noted
+   Pertinent medications: HISS, flagyl, pantoprazole, 40meqKCl in D5W
+   Labs:
+   Value
+   Date
+   Glucose
+   94 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Glucose Finger Stick
+   97
+   [**2140-6-4**] 05:00 AM
+   BUN
+   36 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Creatinine
+   1.0 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Sodium
+   150 mEq/L
+   [**2140-6-4**] 05:00 AM
+   Potassium
+   3.8 mEq/L
+   [**2140-6-4**] 05:00 AM
+   Chloride
+   117 mEq/L
+   [**2140-6-4**] 05:00 AM
+   Albumin
+   2.9 g/dL
+   [**2140-6-3**] 11:27 PM
+   Calcium non-ionized
+   8.8 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Phosphorus
+   2.7 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Ionized Calcium
+   1.30 mmol/L
+   [**2140-6-3**] 11:45 PM
+   Magnesium
+   2.0 mg/dL
+   [**2140-6-4**] 05:00 AM
+   Current diet order / nutrition support: NPO
+   GI: Abdomen soft with positive bowel sounds, +NGT, +rectal tube
+   draining loose stool
+   Assessment of Nutritional Status
+   At risk for malnutrition
+   Pt at risk due to: NPO / hypocaloric diet, Diarrhea
+   Estimated Nutritional Needs
+   Calories: 1600-1900 (BEE x  or / 25-30 cal/kg)
+   Protein: 75-95 (1.2-1.5 g/kg)
+   Fluid: per team
+   Specifics:
+   84 year old female transferred from OSH for management of c.diff sepsis
+   and volume overload. Patient is currently NPO, on and off BIPAP d/t
+   respiratory distress. Consult received for tube feeding
+   recommendations.  When possible, would recommend goal tube feeding of
+   Nutren Pulmonary at 45ml/hr x 24 hours to provide 1620kcal and 73g
+   protein. Will adjust tube feeding as necessary based on fluid status,
+   lytes and plan of care.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Start Nutren Pulmonary at 20ml/hr, advance by 20ml q6H to goal
+   rate of 45ml/hr x 24 hours
+   2.       Monitor residuals q4H and hold tube feeding if >150ml
+   3.       Monitor/replete lytes PRN
+   07:40
+
+Subjective
+   Trached/Vented.
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   163 cm
+   74.7kg (?fluid weight)
+   EDW: 65.9kg -this weight obtained from chart(feeding weight)
+   26.4
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   59 kg
+   112 (based on EDW)
+   65.5kg ([**11-3**])
+   Diagnosis: PNA
+   PMH : CLL, CAD, s/p pacemaker & CABG, diastolic CHF, CRI(baseline creat
+   1.4 - 1.5), HTN, COPD, trach, vent.
+   Food allergies and intolerances:  none noted.
+   Pertinent medications: protonix,   hydrocortizone, fentanyl, midazolam,
+   insulin gtt, D5W at 50mL/hr.
+   Labs:
+   Value
+   Date
+   Glucose
+   232 mg/dL
+   [**2151-7-18**] 07:13 AM
+   Glucose Finger Stick
+   211
+   [**2151-7-18**] 11:00 AM
+   BUN
+   91 mg/dL
+   [**2151-7-18**] 03:58 AM
+   Creatinine
+   1.3 mg/dL
+   [**2151-7-18**] 03:58 AM
+   Sodium
+   153 mEq/L
+   [**2151-7-18**] 04:13 AM
+   Potassium
+   4.8 mEq/L
+   [**2151-7-18**] 04:13 AM
+   Chloride
+   128 mEq/L
+   [**2151-7-18**] 04:13 AM
+   TCO2
+   17 mEq/L
+   [**2151-7-18**] 03:58 AM
+   PO2 (arterial)
+   86.[**Numeric Identifier 96**] mm Hg
+   [**2151-7-18**] 07:13 AM
+   PCO2 (arterial)
+   34 mm Hg
+   [**2151-7-18**] 07:13 AM
+   pH (arterial)
+   7.28 units
+   [**2151-7-18**] 07:13 AM
+   pH (urine)
+   5.5 units
+   [**2151-7-17**] 11:01 PM
+   CO2 (Calc) arterial
+   17 mEq/L
+   [**2151-7-18**] 07:13 AM
+   Albumin
+   3.0 g/dL
+   [**2151-7-17**] 11:00 PM
+   Calcium non-ionized
+   7.1 mg/dL
+   [**2151-7-18**] 03:58 AM
+   Phosphorus
+   3.8 mg/dL
+   [**2151-7-18**] 03:58 AM
+   Ionized Calcium
+   1.05 mmol/L
+   [**2151-7-18**] 07:13 AM
+   Magnesium
+   2.7 mg/dL
+   [**2151-7-18**] 03:58 AM
+   ALT
+   18 IU/L
+   [**2151-7-18**] 03:58 AM
+   Alkaline Phosphate
+   70 IU/L
+   [**2151-7-18**] 03:58 AM
+   AST
+   30 IU/L
+   [**2151-7-18**] 03:58 AM
+   Amylase
+   41 IU/L
+   [**2151-7-17**] 11:00 PM
+   Total Bilirubin
+   1.0 mg/dL
+   [**2151-7-18**] 03:58 AM
+   WBC
+   17.9 K/uL
+   [**2151-7-18**] 03:58 AM
+   Hgb
+   8.7 g/dL
+   [**2151-7-18**] 03:58 AM
+   Hematocrit
+   26
+   [**2151-7-18**] 04:13 AM
+   Current diet order / nutrition support: NPO. Trached/Vented.
+   Assessment of Nutritional Status
+   At risk for malnutrition
+   Pt at risk due to: NPO / hypocaloric diet, Low protein stores, severe
+   PNA, unstable respiratory status, needs nutrition support.
+   Estimated Nutritional Needs
+   Calories: 1650 - [**2122**] (BEE x  or / 25 - 30 cal/kg)
+   Protein: 66 - 99 (1 - 1.5 g/kg)
+   Fluid: per team.
+   Specifics:
+   85 YO [**Hospital **] transferred from [**Male First Name (un) 2222**], s/p trach d/t respiratory
+   failure from septic shock & severe PNA. Patient with hx of CHF & CRI
+   with elevated BUN & serum sodium -likely dehydrated as well
+on D%W
+   IVF
+s. Will use EDW to estimate caloric-protein needs. Currently resp.
+   status unstable & will likely be placed on paralytics. Consulted for TF
+   recs. Would initiate TF once resp. status is stable. Will need OGT
+   placement since NGT pulled d/t sinusitis. Recommend change current TF
+   order to volume resticted TF FS Nutren Pulmonary at goal 45mL/hr
+   providing 1620kcals/73g protein/842mL free water.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Change Current TF order to Nutren Pulmonary at goal 45mL/hr
+   2.       Once resp. status is stable & OGT placed & placement
+   confirmed, initiate TF Nutren Pulmonary; start at 10Ml/hr, advance
+   cautiously (esp. if paralyzed) by 10mL Q6hr or as tolerated to goal
+   45mL/hr
+   3.       check residuals Q 4hrs, hold x1hr if >150mL
+   4.       free water flushes per team per hydration status
+   5.       continue to monitor renal fxn
+   6.       continue with insulin drip & titrate PRN
+RISS once feasible
+
+Subjective
+   Patient with trach
+   Objective
+   Pertinent medications: Insulin gtt, fentanyl, versed, norepinephrine
+   Labs:
+   Value
+   Date
+   Glucose
+   47 mg/dL
+   [**2151-7-21**] 04:03 AM
+   Glucose Finger Stick
+   84
+   [**2151-7-21**] 05:00 AM
+   BUN
+   94 mg/dL
+   [**2151-7-21**] 03:53 AM
+   Creatinine
+   1.7 mg/dL
+   [**2151-7-21**] 03:53 AM
+   Sodium
+   142 mEq/L
+   [**2151-7-21**] 03:53 AM
+   Potassium
+   5.4 mEq/L
+   [**2151-7-21**] 03:53 AM
+   Chloride
+   119 mEq/L
+   [**2151-7-21**] 03:53 AM
+   TCO2
+   16 mEq/L
+   [**2151-7-21**] 03:53 AM
+   Albumin
+   3.0 g/dL
+   [**2151-7-17**] 11:00 PM
+   Calcium non-ionized
+   7.1 mg/dL
+   [**2151-7-21**] 03:53 AM
+   Phosphorus
+   4.4 mg/dL
+   [**2151-7-21**] 03:53 AM
+   Ionized Calcium
+   1.12 mmol/L
+   [**2151-7-21**] 04:03 AM
+   Magnesium
+   2.3 mg/dL
+   [**2151-7-21**] 03:53 AM
+   Current diet order / nutrition support: Nutren Pulmonary at 45ml/hr -
+   provides 1620kcal and 73g protein, currently on hold
+   GI: Abdomen soft/distended with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   85 year old male with multiple medical problems admitted with septic
+   shock/ARDS and respiratory failure. Patient was started on tube
+   feedings, but noted with high residuals overnight so tube feeding is on
+   hold. Patient may need post-pyloric tube placement and promotility
+   [**Doctor Last Name **]. Will follow and if tube feedings not tolerated, will consider
+   TPN. Noted family meetings.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Consider post-pyloric tube placement
+   2.       Consider reglan
+   3.       Once possible, restart tube feedings of Nutren Pulmonary to
+   goal rate of 45ml/hr x 24 hours
+   08:33
+
+Comments:
+   Nutrition Addendum:
+   Noted per family meeting yesterday care now geared toward CMO with no
+   further invasive procedures. Will sign off at this time.
+
+Subjective
+   Patient with poor PO intake,+ weak
+   Objective
+   Pertinent medications: HISS ,lasix
+   Labs:
+   Value
+   Date
+   Glucose
+   114 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Glucose Finger Stick
+   112
+   [**2140-6-9**] 04:00 AM
+   BUN
+   35 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Creatinine
+   0.8 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Sodium
+   143 mEq/L
+   [**2140-6-9**] 04:00 AM
+   Potassium
+   3.8 mEq/L
+   [**2140-6-9**] 04:00 AM
+   Chloride
+   96 mEq/L
+   [**2140-6-9**] 04:00 AM
+   TCO2
+   41 mEq/L
+   [**2140-6-9**] 04:00 AM
+   Albumin
+   2.9 g/dL
+   [**2140-6-3**] 11:27 PM
+   Calcium non-ionized
+   8.3 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Phosphorus
+   3.0 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Ionized Calcium
+   1.30 mmol/L
+   [**2140-6-3**] 11:45 PM
+   Magnesium
+   2.3 mg/dL
+   [**2140-6-9**] 04:00 AM
+   Current diet order / nutrition support: Nutren Pulmonary at 45ml/hr x
+   24 hours -provides 1620kcal and 73g protein
+   Pureed with nectar thick liquids
+   GI: Abdomen soft with positive bowel sounds, noted 1L stool output
+   yesterday
+   Assessment of Nutritional Status
+   Specifics:
+   84 year old female transferred from OSH for management of c.diff septic
+   shock and volume overload. Patient has been tolerating tube feedings
+   well at goal rate of 45ml/hr. Noted with liquid stool so question how
+   much she is really absorbing. Patient unable to take much PO intake,
+   poor appetite. Noted patient with BRBPR.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Continue with tube feedings as ordered: Nutren Pulmonary at
+   45ml/hr x 24 hours
+   2.       Monitor residuals q4H and hold tube feeding if >150ml
+   3.       Encourage PO intake when patient strong enough to take POs
+   09:16
+
+Objective
+   Pertinent medications: lasix gtt, HISS, neutraphos
+   Labs:
+   Value
+   Date
+   Glucose
+   123 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Glucose Finger Stick
+   126
+   [**2140-6-6**] 04:00 AM
+   BUN
+   34 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Creatinine
+   0.8 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Sodium
+   145 mEq/L
+   [**2140-6-6**] 04:10 AM
+   Potassium
+   3.5 mEq/L
+   [**2140-6-6**] 04:10 AM
+   Chloride
+   103 mEq/L
+   [**2140-6-6**] 04:10 AM
+   TCO2
+   33 mEq/L
+   [**2140-6-6**] 04:10 AM
+   Albumin
+   2.9 g/dL
+   [**2140-6-3**] 11:27 PM
+   Calcium non-ionized
+   8.6 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Phosphorus
+   2.5 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Ionized Calcium
+   1.30 mmol/L
+   [**2140-6-3**] 11:45 PM
+   Magnesium
+   1.7 mg/dL
+   [**2140-6-6**] 04:10 AM
+   Current diet order / nutrition support: Pureed with nectar-thick
+   liquids
+   Nutren Pulmonary at 45ml/hr x 24 hours (provides 1620kcal and 73g
+   protein)
+   GI: Abdomen soft/distended with positive bowel sounds
+   Assessment of Nutritional Status
+   Specifics:
+   84 year old female admitted from OSH for management of c.diff septic
+   shock now with volume overload and improving hypernatremia. Patient
+   started on tube feedings and has been tolerating well at goal rate of
+   45ml/hr. Noted patient with some coughing when liquids given. Consider
+   SLP evaluation if ?aspiration with PO intake.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       Continue with tube feedings as ordered: Nutren Pulmonary at
+   45ml/hr x 24 hours
+   2.       Continue with diet as ordered: get SLP evaluation if concerns
+   for aspiration
+   08:34
+
+Subjective
+   Pt being eval for ? PICC placement.
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   175 cm
+   78.2 kg
+   77 kg ([**2191-9-29**] 12:00 AM)
+   25.4
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   72.6 kg
+   114%
+   86kg
+   91
+   Pertinent medications: protonix, raglan, colace, erythromycin, hep,
+   ssri, abx, D5 1/2 NS + 40 mEq KCL continuous at 80 ml/hr, others noted
+   Labs:
+   Value
+   Date
+   Glucose
+   109 mg/dL
+   [**2191-9-30**] 02:42 AM
+   Glucose Finger Stick
+   115
+   [**2191-9-30**] 10:00 AM
+   BUN
+   24 mg/dL
+   [**2191-9-30**] 02:42 AM
+   Creatinine
+   1.5 mg/dL
+   [**2191-9-30**] 02:42 AM
+   Sodium
+   137 mEq/L
+   [**2191-9-30**] 02:42 AM
+   Potassium
+   3.4 mEq/L
+   [**2191-9-30**] 02:42 AM
+   Chloride
+   106 mEq/L
+   [**2191-9-30**] 02:42 AM
+   TCO2
+   23 mEq/L
+   [**2191-9-30**] 02:42 AM
+   pH (urine)
+   5.0 units
+   [**2191-9-29**] 03:14 PM
+   Calcium non-ionized
+   7.4 mg/dL
+   [**2191-9-30**] 02:42 AM
+   Phosphorus
+   3.6 mg/dL
+   [**2191-9-30**] 02:42 AM
+   Magnesium
+   2.6 mg/dL
+   [**2191-9-30**] 02:42 AM
+   WBC
+   8.6 K/uL
+   [**2191-9-30**] 02:42 AM
+   Hgb
+   9.6 g/dL
+   [**2191-9-30**] 02:42 AM
+   Hematocrit
+   29.1 %
+   [**2191-9-30**] 02:42 AM
+   Current diet order / nutrition support:  npo
+   GI: +BS
+   Assessment of Nutritional Status
+   Pt at risk due to: npo
+   Estimated Nutritional Needs ( per UBW)
+   Calories:  2150kcal/day
+   Protein:  103-112g/day
+   Fluid: per team
+   Estimation of current intake:  inadequate
+   Specifics:
+   61M s/p antrectomy c Billroth II, duodenectomy for gastrinoma on
+   [**2191-9-8**], discharged [**2191-9-18**], re-admitted for likely delayed gastric
+   emptying, possible g-j stricture, ?ileus.  Patient transferred to SICU
+   yesterday d/t rapid afib. Pt prev on TPN for full nutrition support,
+   noted TPN d/c
+s 9/172/2 fever, old PICC pulled.  Spoke to ICU team,
+   will hold off on TPN at this time [**2-12**] temp of 101 now.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       IVF while off TPN
+   2.       resume TPN once PICC is available
+   3.       F/u, please page [**Numeric Identifier 5382**] if has ?
+
+Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   178 cm
+   80.1 kg
+   25.3
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   75.3 kg
+   106
+   77kg per wife.
+   104
+   Diagnosis: Abdominal pain; inability to tolerate po's
+   PMH : Trach/PEG [**10-28**], laryngeal CA, s/p chemo/XRT, chronic
+   pancreatitis d/t ETOH c/b liver cirrhosis with esophageal strictures,
+   varices, PVT, splenomegally & hepatic encephalopathy, pneumoperitoneum,
+   arthritis, sz d/o, MRSA, psoriasis.
+   Food allergies and intolerances:  none noted.
+   Pertinent medications:
+   Labs:
+   Value
+   Date
+   Glucose
+   153 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Glucose Finger Stick
+   287
+   [**2190-11-15**] 12:00 PM
+   BUN
+   10 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Creatinine
+   0.7 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Sodium
+   135 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Potassium
+   3.8 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Chloride
+   99 mEq/L
+   [**2190-11-15**] 06:49 AM
+   TCO2
+   27 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Albumin
+   3.3 g/dL
+   [**2190-11-15**] 06:49 AM
+   Calcium non-ionized
+   7.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Phosphorus
+   3.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Magnesium
+   1.5 mg/dL
+   [**2190-11-15**] 06:49 AM
+   ALT
+   18 IU/L
+   [**2190-11-15**] 06:49 AM
+   Alkaline Phosphate
+   179 IU/L
+   [**2190-11-15**] 06:49 AM
+   AST
+   23 IU/L
+   [**2190-11-15**] 06:49 AM
+   Total Bilirubin
+   0.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   WBC
+   11.4 K/uL
+   [**2190-11-15**] 09:44 AM
+   Hgb
+   10.0 g/dL
+   [**2190-11-15**] 09:44 AM
+   Hematocrit
+   25.0 %
+   [**2190-11-15**] 01:33 PM
+   Current diet order / nutrition support: NPO.
+   GI:
+   Assessment of Nutritional Status
+   At risk for malnutrition
+   Pt at risk due to: hx of CA, TF dependent.
+   Estimated Nutritional Needs
+   Calories: [**2181**]-2400 (BEE x  or / 25-30 cal/kg)
+   Protein: 96-120 (1.2-1.5 g/kg)
+   Fluid: per team
+   Specifics:
+   52 YO Male with hx of laryngeal CA s/p chemo/XRT & chronic
+   pancreatitis. Patient was initially from [**Hospital Ward Name **] & transferred to
+   east on Friday, today transferred to the [**Hospital Unit Name 44**] d/t hypotension &
+   bleeding from nose, mouth & trach. Patient is TF dependent & patient
+   wife manages patient
+s TF on a special regimen (boluses upto 10hrs a
+   day at home d/t inability to tolerate high volume TF). TF was changed
+   to a concentrated formula on west: Nuten 2.0 goal: 4 cans/day ([**12-23**] can
+   x8/day). However, now that the patient is in the ICU depending on
+   medical stability, he may not be able to tolerate bolus feeds. Suggest
+   run TF x24hrs until stable enough to tolerate bolus feeds. Recommend FS
+   Nutren 2.0  plus 30gms Beneprotein at goal 40mL/hr X24hrs, providing
+   2027kcals & 103g Protein. Start TF at 10mL/hr as we are now adding
+   beneprotein (to ensure tolerance), then advance as tolerated to goal.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       When able to start feeds, start FS Nutren 2.0 + 30gms
+   Beneprotein, start at 10mL/hr, then advance by 10-20mL Q4-6hrs or as
+   tolerated to goal 40mL/hr
+   2.       check residuals Q 4hrs & hold x1hr if >150mL
+   3.       Flush with 200mL Q 4hrs/adjust per hydration
+   4.       Monitor & replete lytes PRN
+   Will follow closely.
+
+Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   178 cm
+   80.1 kg
+   25.3
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   75.3 kg
+   106
+   77kg per wife.
+   104
+   Diagnosis: Abdominal pain; inability to tolerate po's
+   PMH : Trach/PEG [**10-28**], laryngeal CA, s/p chemo/XRT, chronic
+   pancreatitis d/t ETOH c/b liver cirrhosis with esophageal strictures,
+   varices, PVT, splenomegally & hepatic encephalopathy, pneumoperitoneum,
+   arthritis, sz d/o, MRSA, psoriasis.
+   Food allergies and intolerances:  none noted.
+   Pertinent medications: RISS, protonix, Abx, synthroid.
+   Labs:
+   Value
+   Date
+   Glucose
+   153 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Glucose Finger Stick
+   287
+   [**2190-11-15**] 12:00 PM
+   BUN
+   10 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Creatinine
+   0.7 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Sodium
+   135 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Potassium
+   3.8 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Chloride
+   99 mEq/L
+   [**2190-11-15**] 06:49 AM
+   TCO2
+   27 mEq/L
+   [**2190-11-15**] 06:49 AM
+   Albumin
+   3.3 g/dL
+   [**2190-11-15**] 06:49 AM
+   Calcium non-ionized
+   7.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Phosphorus
+   3.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   Magnesium
+   1.5 mg/dL
+   [**2190-11-15**] 06:49 AM
+   ALT
+   18 IU/L
+   [**2190-11-15**] 06:49 AM
+   Alkaline Phosphate
+   179 IU/L
+   [**2190-11-15**] 06:49 AM
+   AST
+   23 IU/L
+   [**2190-11-15**] 06:49 AM
+   Total Bilirubin
+   0.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   WBC
+   11.4 K/uL
+   [**2190-11-15**] 09:44 AM
+   Hgb
+   10.0 g/dL
+   [**2190-11-15**] 09:44 AM
+   Hematocrit
+   25.0 %
+   [**2190-11-15**] 01:33 PM
+   Current diet order / nutrition support: NPO.
+   Assessment of Nutritional Status
+   At risk for malnutrition
+   Pt at risk due to: hx of CA, TF dependent.
+   Estimated Nutritional Needs
+   Calories: [**2181**]-2400 (BEE x  or / 25-30 cal/kg)
+   Protein: 96-120 (1.2-1.5 g/kg)
+   Fluid: per team
+   Specifics:
+   52 YO Male with hx of laryngeal CA s/p chemo/XRT & chronic
+   pancreatitis. Patient was initially from [**Hospital Ward Name **] & transferred to
+   east on Friday, today transferred to the [**Hospital Unit Name 44**] d/t hypotension &
+   bleeding from nose, mouth & trach. Patient is TF dependent & patient
+   wife manages patient
+s TF on a special regimen (boluses upto 10hrs a
+   day at home d/t inability to tolerate high volume TF). TF was changed
+   to a concentrated formula on west: Nuten 2.0 goal: 4 cans/day ([**12-23**] can
+   x8/day). However, now that the patient is in the ICU depending on
+   medical stability, he may not be able to tolerate bolus feeds. Suggest
+   run TF x24hrs until stable enough to tolerate bolus feeds. Recommend FS
+   Nutren 2.0  plus 30gms Beneprotein at goal 40mL/hr X24hrs, providing
+   2027kcals & 103g Protein. Start TF at 10mL/hr as we are now adding
+   beneprotein (to ensure tolerance), then advance as tolerated to goal.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       When able to start feeds, start FS Nutren 2.0 + 30gms
+   Beneprotein, start at 10mL/hr, then advance by 10-20mL Q4-6hrs or as
+   tolerated to goal 40mL/hr
+   2.       check residuals Q 4hrs & hold x1hr if >150mL
+   3.       Flush with 200mL Q 4hrs/adjust per hydration
+   4.       Monitor & replete lytes PRN
+   5.       continue to monitor FS & adjust insulin PRN
+   Will follow closely.
+
+Subjective:  Pt intubated. Per pt
+s wife, pt usually has a very good
+   appetite, and is very active, going to karate 3x/wk and walking their
+   dog 3x/day.
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   171 cm
+   82.6 kg
+   84.6 kg ([**2195-11-11**] 02:00 AM)
+   28
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   68.5 kg
+   120
+   81.8
+   100
+   Diagnosis: Throat Swelling
+   PMH : Afib on coumadin, L Carotid stent, HTN, asthma
+   Food allergies and intolerances:
+   Pertinent medications: Fentanyl, D5 1/2NS @75cc/hr, Famotidine, RISS,
+   Dexamethazone, MVit, colace, others noted
+   Labs:
+   Value
+   Date
+   Glucose
+   153 mg/dL
+   [**2195-11-11**] 01:33 AM
+   Glucose Finger Stick
+   172
+   [**2195-11-11**] 10:00 AM
+   BUN
+   27 mg/dL
+   [**2195-11-11**] 01:33 AM
+   Creatinine
+   0.9 mg/dL
+   [**2195-11-11**] 01:33 AM
+   Sodium
+   142 mEq/L
+   [**2195-11-11**] 01:33 AM
+   Potassium
+   4.5 mEq/L
+   [**2195-11-11**] 01:33 AM
+   Chloride
+   111 mEq/L
+   [**2195-11-11**] 01:33 AM
+   TCO2
+   26 mEq/L
+   [**2195-11-11**] 01:33 AM
+   PO2 (arterial)
+   162 mm Hg
+   [**2195-11-9**] 06:27 PM
+   PCO2 (arterial)
+   48 mm Hg
+   [**2195-11-9**] 06:27 PM
+   pH (arterial)
+   7.33 units
+   [**2195-11-9**] 06:27 PM
+   pH (urine)
+   5.0 units
+   [**2195-11-9**] 01:05 PM
+   CO2 (Calc) arterial
+   26 mEq/L
+   [**2195-11-9**] 06:27 PM
+   Calcium non-ionized
+   8.2 mg/dL
+   [**2195-11-11**] 01:33 AM
+   Phosphorus
+   3.4 mg/dL
+   [**2195-11-11**] 01:33 AM
+   Magnesium
+   2.5 mg/dL
+   [**2195-11-11**] 01:33 AM
+   WBC
+   11.1 K/uL
+   [**2195-11-11**] 01:33 AM
+   Hgb
+   9.9 g/dL
+   [**2195-11-11**] 01:33 AM
+   Hematocrit
+   27.4 %
+   [**2195-11-11**] 01:33 AM
+   Current diet order / nutrition support: NPO
+   GI: soft, +BS
+   Assessment of Nutritional Status
+   Adequately nourished
+   Estimated Nutritional Needs
+   Calories: 2065-2478 (BEE x  or / 25-30 cal/kg)
+   Protein: 99-124 (1.2-1.5 g/kg)
+   Fluid: per team
+   Estimation of previous intake: Adequate
+   Estimation of current intake: Inadequate
+   Specifics:
+   66 y.o. M adm with worsening throat swelling and increased bruising on
+   arms.  Pt found to have a sublingual bleed, and was subsequently
+   intubated due to worsening throat edema & respiratory distress.  The
+   etiology of the bleed is unclear, however it occurred in the setting of
+   supra-therapeutic INR and clinical h/o dysphagia prior to the
+   respiratory distress.  Pt remains intubated and sedated, with plan to
+   place OGT to allow for pt to be tube fed.  Will provide recs below.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1)       Rec start Nutren Pulmonary @ 20cc/hr, adv rate 10cc q 4-6hrs
+   as tolerated to goal of 60cc/hr (2160kcals, 98g protein).
+   2)       Monitory tolerance with residual checks q4hrs, hold TF x1hr if
+   >150cc.
+   3)       Monitor BG, lytes & hydration with initiation of TF.
+   Please page if ?
+s [**Numeric Identifier 5990**]
+
+Ht: 74
+   Wt: 127 kgs
+   IBW 86.2 kgs
+   148 % IDW
+   ABW 97 kgs
+   Comments:
+   49 year old Male admitted with PNA & CHF. Pt. on low sodium, heart
+   healthy diabetic consistent diet with appetite & pos good. Will
+   continue to follow.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6810**] Dietetic Intern
+
+Ht: 74
+   Wt: 127 kgs
+   IBW 86.2 kgs
+   148 % IDW
+   ABW 97 kgs
+   Comments:
+   49 year old Male admitted with PNA & CHF. Pt. on low sodium, heart
+   healthy diabetic consistent diet with good appetite & pos. Will
+   continue to follow intake and tolerance and make recs  prn.
+   [**First Name4 (NamePattern1) **] [**Last Name (NamePattern1) 6810**] Dietetic Intern
+   [**First Name8 (NamePattern2) 943**] [**Last Name (NamePattern1) 4494**], RD, CNSD #[**Numeric Identifier 5607**]
+
+Subjective
+   Patient with chronic trach
+   Objective
+   Height
+   Admit weight
+   Daily weight
+   Weight change
+   BMI
+   175 cm
+   66 kg
+   28.3
+   Ideal body weight
+   % Ideal body weight
+   Adjusted weight
+   Usual body weight
+   % Usual body weight
+   73 kg
+   90
+   74kg ([**7-30**]), 57kg ([**12-29**])
+   Diagnosis: Bleeding from trach
+   PMH : SCC vallecular with unresectable cervical recurrence, s/p trach,
+   PEG, XRT, chemo, liver cirrhosis [**1-23**] etoh with splenomegaly, esophageal
+   varices, chronic pancreatitis, seizure disorder
+   Food allergies and intolerances:  none noted
+   Pertinent medications: scopalamine, lactulose, reglan
+   Labs:
+   Value
+   Date
+   WBC
+   12.0 K/uL
+   [**2190-12-3**] 12:39 PM
+   Hgb
+   11.6 g/dL
+   [**2190-12-3**] 12:39 PM
+   Hematocrit
+   32.9 %
+   [**2190-12-3**] 12:39 PM
+   Current diet order / nutrition support: Nutren Pulmonary - 6 cans/day
+   to provide 2250kcal and 102g protein
+   GI:
+   Assessment of Nutritional Status
+   At risk for malnutrition
+   Pt at risk due to: NPO / hypocaloric diet
+   Estimated Nutritional Needs
+   Calories: [**2181**]-2300 (BEE x  or / 30-35 cal/kg)
+   Protein: 80-100 (1.2-1.5 g/kg)
+   Fluid: per team
+   Specifics:
+   52 year old male with history of oral cancer s/p PEG, trach and recent
+   admission for epistaxis now presenting with hemoptysis. Patient on home
+   tube feedings, noted above order in POE. Patient is currently NPO. Once
+   able, would continue with order of Nutren Pulmonary at 6 cans/day. Or
+   can run continuously at 65ml/hr x 24 hours.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1.       When medically possible, please start Nutren Pulmonary. Give 6
+   cans/day. Or run at 65ml/hr x 24 hours.
+   2.       Monitor residuals, hold tube feedings if >150ml
+   3.       Daily chem 10
+   4.       Will follow for further plan of care and make adjustments PRN
+   01:44 PM
+
+Pertinent medications: Dilaudid, others noted
+   Labs:
+   Value
+   Date
+   Glucose
+   99 mg/dL
+   [**2190-12-11**] 03:24 AM
+   Glucose Finger Stick
+   118
+   [**2190-12-11**] 04:00 PM
+   BUN
+   5 mg/dL
+   [**2190-12-11**] 03:24 AM
+   Creatinine
+   0.3 mg/dL
+   [**2190-12-11**] 03:24 AM
+   Sodium
+   142 mEq/L
+   [**2190-12-11**] 03:24 AM
+   Potassium
+   3.3 mEq/L
+   [**2190-12-11**] 03:24 AM
+   Chloride
+   105 mEq/L
+   [**2190-12-11**] 03:24 AM
+   TCO2
+   31 mEq/L
+   [**2190-12-11**] 03:24 AM
+   PO2 (arterial)
+   117 mm Hg
+   [**2190-12-8**] 05:14 PM
+   PCO2 (arterial)
+   37 mm Hg
+   [**2190-12-8**] 05:14 PM
+   pH (arterial)
+   7.41 units
+   [**2190-12-8**] 05:14 PM
+   CO2 (Calc) arterial
+   24 mEq/L
+   [**2190-12-8**] 05:14 PM
+   Calcium non-ionized
+   8.2 mg/dL
+   [**2190-12-11**] 03:24 AM
+   Phosphorus
+   2.9 mg/dL
+   [**2190-12-11**] 03:24 AM
+   Ionized Calcium
+   1.14 mmol/L
+   [**2190-12-8**] 03:11 PM
+   Magnesium
+   1.8 mg/dL
+   [**2190-12-11**] 03:24 AM
+   WBC
+   2.6 K/uL
+   [**2190-12-11**] 03:24 AM
+   Hgb
+   8.5 g/dL
+   [**2190-12-11**] 03:24 AM
+   Hematocrit
+   23.9 %
+   [**2190-12-11**] 03:24 AM
+   Current diet order / nutrition support: TF: Replete with Fiber boluses
+   prn
+   GI:
+   Assessment of Nutritional Status
+   52 y.o. M with SCC vallecular, with trach and PEG.  Pt is now being
+   followed by palliative care, and main goal is comfort and pain
+   management.  Pt is receiving Replete with Fiber boluses prn whenever pt
+   feels hungry.  Pt
+s nutritional needs are not being met, but this is ok
+   as pt is only receiving TF if it will increase his comfort level.  Will
+   continue to follow
+ please page with ?
+s #[**Numeric Identifier 5990**]
+
+Pertinent medications: noted
+   Labs:
+   Value
+   Date
+   Glucose
+   82 mg/dL
+   [**2190-12-7**] 02:28 AM
+   Glucose Finger Stick
+   129
+   [**2190-12-7**] 10:00 AM
+   BUN
+   7 mg/dL
+   [**2190-12-7**] 02:28 AM
+   Creatinine
+   0.4 mg/dL
+   [**2190-12-7**] 02:28 AM
+   Sodium
+   132 mEq/L
+   [**2190-12-7**] 02:28 AM
+   Potassium
+   3.7 mEq/L
+   [**2190-12-7**] 02:28 AM
+   Chloride
+   102 mEq/L
+   [**2190-12-7**] 02:28 AM
+   TCO2
+   24 mEq/L
+   [**2190-12-7**] 02:28 AM
+   PO2 (arterial)
+   96.[**Numeric Identifier 244**] mm Hg
+   [**2190-12-6**] 09:53 AM
+   PCO2 (arterial)
+   32 mm Hg
+   [**2190-12-6**] 09:53 AM
+   pH (arterial)
+   7.49 units
+   [**2190-12-6**] 09:53 AM
+   CO2 (Calc) arterial
+   25 mEq/L
+   [**2190-12-6**] 09:53 AM
+   Calcium non-ionized
+   8.1 mg/dL
+   [**2190-12-7**] 02:28 AM
+   Phosphorus
+   2.3 mg/dL
+   [**2190-12-7**] 02:28 AM
+   Ionized Calcium
+   1.11 mmol/L
+   [**2190-12-6**] 09:53 AM
+   Magnesium
+   2.0 mg/dL
+   [**2190-12-7**] 02:28 AM
+   WBC
+   7.7 K/uL
+   [**2190-12-7**] 02:28 AM
+   Hgb
+   10.4 g/dL
+   [**2190-12-7**] 02:28 AM
+   Hematocrit
+   28.5 %
+   [**2190-12-7**] 02:28 AM
+   Current diet order / nutrition support: TF: Replete with Fiber 240cc
+   boluses PRN
+   GI:
+   Assessment of Nutritional Status
+   52M with SCC of valleculae, c/b bleeding from nares/trach, currently
+   with stable hematocrits.  Pt with PEG, from which he usually receives
+   his nutrition (enteral feeds).  Pt & pt
+s wife is now working with
+   palliative care service to focus on pain management and placement in an
+   appropriate care facility.  [**Name8 (MD) **] RN, pt is to receive tube feeds only if
+   he is feeling hungry.  Agree with this plan if comfort is the main
+   goal.  Will cont. to follow inhouse.
+   Please page with ?
+s [**Numeric Identifier 5990**]
+
+Pertinent medications: Lactulose, Lactated Ringers, KCl & magSO4
+   repletions, others noted
+   Labs:
+   Value
+   Date
+   Glucose
+   115 mg/dL
+   [**2190-11-17**] 03:08 AM
+   Glucose Finger Stick
+   172
+   [**2190-11-17**] 10:00 AM
+   BUN
+   11 mg/dL
+   [**2190-11-17**] 03:08 AM
+   Creatinine
+   0.5 mg/dL
+   [**2190-11-17**] 03:08 AM
+   Sodium
+   135 mEq/L
+   [**2190-11-17**] 03:08 AM
+   Potassium
+   2.8 mEq/L
+   [**2190-11-17**] 03:08 AM
+   Chloride
+   97 mEq/L
+   [**2190-11-17**] 03:08 AM
+   TCO2
+   32 mEq/L
+   [**2190-11-17**] 03:08 AM
+   Albumin
+   3.3 g/dL
+   [**2190-11-15**] 06:49 AM
+   Calcium non-ionized
+   8.6 mg/dL
+   [**2190-11-17**] 03:08 AM
+   Phosphorus
+   1.9 mg/dL
+   [**2190-11-17**] 03:08 AM
+   Magnesium
+   1.8 mg/dL
+   [**2190-11-17**] 03:08 AM
+   ALT
+   18 IU/L
+   [**2190-11-15**] 06:49 AM
+   Alkaline Phosphate
+   179 IU/L
+   [**2190-11-15**] 06:49 AM
+   AST
+   23 IU/L
+   [**2190-11-15**] 06:49 AM
+   Total Bilirubin
+   0.9 mg/dL
+   [**2190-11-15**] 06:49 AM
+   WBC
+   5.6 K/uL
+   [**2190-11-17**] 03:00 PM
+   Hgb
+   9.6 g/dL
+   [**2190-11-17**] 03:00 PM
+   Hematocrit
+   26.0 %
+   [**2190-11-17**] 03:00 PM
+   Current diet order / nutrition support: TF: [**Year (4 digits) 140**] Pulmonary
+   GI:
+   Assessment of Nutritional Status
+   [**Year (4 digits) 140**] Pulmonary was started last night via PEG, and pt has had a large
+   amount of diarrhea since.  It is unlikely that the diarrhea is a result
+   of the tube feed though, as pt is receiving lactulose, which normally
+   causes large amounts of loose stool.  Pt might also be having loose
+   stool [**1-23**] colonic pneumatosis, although this is shown to be resolving
+   on abd scan.  Pt
+s wife stated that usual TF rx is [**Name (NI) 140**] Pulmonary,
+   but pt began having diarrhea about 2 weeks prior to coming to hospital
+   while on usual TF rx.  Rec continuing with [**Name (NI) 140**] Pulmonary, as long as
+   team decides it is safe to enterally feed.
+   Medical Nutrition Therapy Plan - Recommend the Following
+   1)       Rec TF goal of [**Name (NI) 140**] Pulmonary @ 50cc/hr (1800kcals, 82g
+   protein)
+   2)       Monitor abd exam closely and monitor stool output.  If this
+   cont. to be >1L per day, pt likely is not absorbing adequate nutrition
+   from TF.
+   3)       Rec hold lactulose due to large amt loose stool.
+   Will follow- Please page with ?
+s [**Numeric Identifier 5990**]
+
